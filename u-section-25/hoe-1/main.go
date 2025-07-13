@@ -1,5 +1,7 @@
 package main
 
+// this is an example of marshalling a JSON
+
 import (
 	"encoding/json"
 	"fmt"
